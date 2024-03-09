@@ -1,0 +1,13 @@
+.Images{
+    display: inline-block;
+}
+.Images img{
+    height: 300px;
+    width: 350px;
+    object-fit: cover;
+}
+body{
+    text-align: center;
+    background: linear-gradient(rgb(238, 157, 6), rgb(186, 9, 9));
+    min-height: 100vh;
+}
